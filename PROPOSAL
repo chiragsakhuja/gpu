@@ -1,0 +1,6 @@
+My goal is to build a simple GPU that supports instructions to render to a
+screen via the HDMI port. The ISA for the GPU will allow for matrix operations
+so that common 2D and 3D transformations can be applied. Furthermore, there will
+be instructions to allow you to render simple primitives, such as points and
+triangles.
+

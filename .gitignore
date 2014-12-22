@@ -1,0 +1,17 @@
+hc_output/
+incremental_db/
+db/
+simulation/
+pll_sim/
+.qsys_edit/
+*.qdf
+*.rpt
+*.summary
+*.smsg
+*.pin
+*.done
+*.sof
+*.jdi
+*.txt
+*.cdf
+*.bak

@@ -1,0 +1,29 @@
+Due : accepted proposal (Tuesday 11/25)
+      working code and report (Friday 12/5)
+
+Assignment:
+
+Propose and build something exciting using our FPGA boards
+
+Rules:
+
+    - You can work individually or in groups
+    - The larger the group, the more exciting your proposal needs to be
+    - All group members will get the same grade (difficulty * score / count)
+    - You need to submit a written proposal by Friday (11/21)
+        * one paragraph
+        * team members
+    - We will discuss the proposal and finalize it by Tuesday (11/25)
+
+Examples:
+
+    - implement a popular instruction set
+    - use the sound chip to do something interesting
+    - build a shared memory multiprocessor
+    - build a multi-threaded processor
+    - implement some interesting algorithm
+    - implement a cache in front of the SDRAM
+    - ...
+
+Please try to propose and work on something that you'll find exciting
+and interesting. Be creative and have fun.
